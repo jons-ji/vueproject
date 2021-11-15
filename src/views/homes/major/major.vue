@@ -14,9 +14,9 @@
         <li>
           <img src="@/assets/images/首页改1_27.gif" alt="" />
         </li>
-        <li>
+        <router-link to="high_speed" tag="li">
           <img src="@/assets/images/首页改1_29.gif" alt="" />
-        </li>
+        </router-link>
         <li>
           <img src="@/assets/images/首页改1_31.gif" alt="" />
         </li>
